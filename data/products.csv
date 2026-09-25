@@ -1,0 +1,31 @@
+product_id,product_name,category,brand,Price,stock
+p0001,MacBook Pro,Laptop,Apple,199999,81
+p0002,Dell XPS,Laptop,Dell,149999,4
+p0003,HP Spectre,Laptop,HP,139999,0
+p0004,Lenovo ThinkPad,Laptop,Lenovo,129999,5
+p0005,ASUS Zenbook,Laptop,ASUS,119999,69
+p0006,Acer Swift,Laptop,Acer,89999,71
+p0007,Microsoft Surface Laptop,Laptop,Microsoft,159999,27
+p0008,Razer Blade,Laptop,Razer,189999,70
+p0009,LG Gram,Laptop,LG,149999,46
+p0010,MSI Stealth,Laptop,MSI,179999,22
+p0011,iPhone,Smartphone,Apple,89999,76
+p0012,Samsung Galaxy,Smartphone,Samsung,79999,56
+p0013,Google Pixel,Smartphone,Google,74999,54
+p0014,OnePlus,Smartphone,OnePlus,54999,91
+p0015,Xiaomi,Smartphone,Xiaomi,34999,80
+p0016,Nothing Phone,Smartphone,Nothing,42999,31
+p0017,Motorola Edge,Smartphone,Motorola,49999,99
+p0018,Vivo X,Smartphone,Vivo,39999,80
+p0019,OPPO Find,Smartphone,OPPO,45999,17
+p0020,Realme,Smartphone,Realme,29999,20
+p0021,JBL Flip,Speaker,JBL,9999,28
+p0022,Bose SoundLink,Speaker,Bose,19999,98
+p0023,Sonos Move,Speaker,Sonos,39999,9
+p0024,Marshall Emberton,Speaker,Marshall,17999,72
+p0025,Ultimate Ears BOOM,Speaker,Ultimate Ears,14999,80
+p0026,Sony SRS,Speaker,Sony,12999,94
+p0027,Anker Soundcore,Speaker,Anker,7999,29
+p0028,Bang & Olufsen Beosound,Speaker,Bang & Olufsen,59999,73
+p0029,Harman Kardon Onyx,Speaker,Harman Kardon,24999,28
+p0030,Apple HomePod,Speaker,Apple,32999,86
